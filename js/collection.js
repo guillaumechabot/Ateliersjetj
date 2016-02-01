@@ -1,0 +1,1 @@
+if(location.href == 'http://ateliersjetj.com/collection.html') location.replace('http://ateliersjetj.com/');
